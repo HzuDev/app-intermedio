@@ -94,5 +94,3 @@ Revisar PRs y fusionarlos a main
  Funcionalidad para editar/eliminar ejercicios
 
  Mejoras en diseño (colores, íconos, feedback visual)
-
-🤝 Colaboradoras
