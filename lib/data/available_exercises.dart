@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+
+const Map<String, IconData> exerciseIcons = {
+  'Sentadillas': Icons.directions_run,
+  'Plancha': Icons.accessibility_new,
+  'Flexiones': Icons.fitness_center,
+  'Caminata': Icons.directions_walk,
+  'Yoga': Icons.self_improvement,
+  'Burpees': Icons.sports_mma,
+  'Abdominales': Icons.accessibility,
+  'Estocadas': Icons.directions_run,
+  'Jumping Jacks': Icons.directions_run,
+  'Mountain Climbers': Icons.terrain,
+  'Peso muerto': Icons.fitness_center,
+  'Press de banca': Icons.fitness_center,
+  'Dominadas': Icons.fitness_center,
+  'Tríceps': Icons.fitness_center,
+  'Bíceps': Icons.fitness_center,
+  'Cardio': Icons.favorite,
+  'Stretching': Icons.accessibility,
+  'Pilates': Icons.accessibility_new,
+  'Correr': Icons.directions_run,
+  'Natación': Icons.pool,
+  'Ciclismo': Icons.directions_bike,
+  'Boxeo': Icons.sports_mma,
+  'Zumba': Icons.music_note,
+  'CrossFit': Icons.sports_mma,
+};
